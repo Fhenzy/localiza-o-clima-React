@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Restaurant  = styled.div`
+export const Painel  = styled.div`
 display: flex;
 justify-content: space-between;
 cursor: pointer;
@@ -14,7 +14,7 @@ border-left: 5px solid transparent;
  }
 `;
 
-export const RestaurantInfo = styled.div`
+export const Centro = styled.div`
 display: flex;
 flex-direction: column;
 `;
@@ -26,6 +26,7 @@ font-size: 24px;
 font-weight: bold;
 line-height: 29px;
 margin-bottom: 10px;
+margin-right: 5px;
 `;
 
 export const Address = styled.span`
@@ -37,9 +38,21 @@ margin-bottom: 10px;
 margin-top: 10px;
 `;
 
-export const RestaurantPhoto = styled.img`
+export const Photo = styled.img`
 width: 100px;
 height: 100px;
 object-fit: cover;
 border-radius: 6px;
+`;
+
+export const Text = styled.div`
+text-align: center;
+align-items: center;
+justify-content: center;
+padding: 9px;
+background-color: blueviolet;
+color: white;
+font-size: 25px;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
 `;
