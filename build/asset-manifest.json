@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "./static/js/main.e326a025.chunk.js",
+    "main.js.map": "./static/js/main.e326a025.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.3e2cbbfc.js",
+    "runtime-main.js.map": "./static/js/runtime-main.3e2cbbfc.js.map",
+    "static/js/2.cc0bb98a.chunk.js": "./static/js/2.cc0bb98a.chunk.js",
+    "static/js/2.cc0bb98a.chunk.js.map": "./static/js/2.cc0bb98a.chunk.js.map",
+    "index.html": "./index.html",
+    "static/js/2.cc0bb98a.chunk.js.LICENSE.txt": "./static/js/2.cc0bb98a.chunk.js.LICENSE.txt",
+    "static/media/atual.fa4c4847.jpg": "./static/media/atual.fa4c4847.jpg",
+    "static/media/medidor.7292fe91.jpg": "./static/media/medidor.7292fe91.jpg",
+    "static/media/previsao.1f727b0e.png": "./static/media/previsao.1f727b0e.png",
+    "static/media/umidade.e5b0136a.jpg": "./static/media/umidade.e5b0136a.jpg",
+    "static/media/vento.8b697b8c.jpg": "./static/media/vento.8b697b8c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e2cbbfc.js",
+    "static/js/2.cc0bb98a.chunk.js",
+    "static/js/main.e326a025.chunk.js"
+  ]
+}
